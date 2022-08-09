@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CobraUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CobraUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
