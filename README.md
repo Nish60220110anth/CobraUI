@@ -1,2 +1,5 @@
 # CobraUI
-Graphical user interface for the Golang based Cobra project 
+WinUI3 based Gui for the Golang based Cobra project
+
+Platforms : 
+> Only for *windows* based implementations in dotnet 
